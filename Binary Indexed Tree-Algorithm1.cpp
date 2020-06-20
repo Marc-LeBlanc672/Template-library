@@ -1,3 +1,7 @@
+// LANG : C++ 
+// maker : Marc LeBlanc
+// 2020.6.20
+
 #include <bits/stdc++.h>
 #define int unsigned long long 
 using namespace std ;
