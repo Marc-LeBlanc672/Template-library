@@ -1,3 +1,7 @@
+// LANG : C++ 
+// maker : Marc LeBlanc
+// 2020.6.20
+
 #include <cstdio>
 #include <algorithm>
 using namespace std ;
