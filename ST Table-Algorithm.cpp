@@ -1,3 +1,7 @@
+// LANG : C++ 
+// maker : Marc LeBlanc
+// 2020.6.21
+
 #include <bits/stdc++.h>
 #define int long long 
 using namespace std ;
